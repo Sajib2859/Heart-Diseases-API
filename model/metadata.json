@@ -1,0 +1,19 @@
+{
+  "model_type": "RandomForestClassifier",
+  "features": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "test_accuracy": 0.7541
+}
